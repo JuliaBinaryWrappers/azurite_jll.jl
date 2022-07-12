@@ -1,0 +1,6 @@
+[azurite]
+git-tree-sha1 = "175ef33baae9074d62a20886654c226637d032e4"
+
+    [[azurite.download]]
+    sha256 = "b0dffea075e351ae065f1615a72f83deef12763f03ee625a0f37480a82004e57"
+    url = "https://github.com/JuliaBinaryWrappers/azurite_jll.jl/releases/download/azurite-v3.18.0+0/azurite.v3.18.0.any.tar.gz"
