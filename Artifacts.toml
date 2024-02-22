@@ -1,6 +1,6 @@
 [azurite]
-git-tree-sha1 = "cf5f1dd763e28d80cdec0f9c7d5b50efa6ae4e14"
+git-tree-sha1 = "89b76d6e824200a98b779afd4e5d9bf20894cc93"
 
     [[azurite.download]]
-    sha256 = "828c29ef29828a98a855c26a0d2a0711b666f0cdf000a557a939909f34197e23"
-    url = "https://github.com/JuliaBinaryWrappers/azurite_jll.jl/releases/download/azurite-v3.24.0+0/azurite.v3.24.0.any.tar.gz"
+    sha256 = "85f594b69d783e5a2ca6f960068bbf437e3e922a77e8f9b59d025d565d93aa7c"
+    url = "https://github.com/JuliaBinaryWrappers/azurite_jll.jl/releases/download/azurite-v3.29.0+0/azurite.v3.29.0.any.tar.gz"
